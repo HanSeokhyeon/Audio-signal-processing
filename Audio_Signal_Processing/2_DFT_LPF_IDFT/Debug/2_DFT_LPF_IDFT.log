@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\HanSeokhyeon\source\repos\Audio_Signal_Processing\2_DFT_LPF_IDFT\main.c(19,45): warning C4047:  '==': 'size_t'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\HanSeokhyeon\source\repos\Audio_Signal_Processing\2_DFT_LPF_IDFT\main.c(37,26): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\HanSeokhyeon\source\repos\Audio_Signal_Processing\2_DFT_LPF_IDFT\main.c(52,19): warning C4244:  '=': 'double'에서 'short'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2_DFT_LPF_IDFT.vcxproj -> C:\Users\HanSeokhyeon\source\repos\Audio_Signal_Processing\Debug\2_DFT_LPF_IDFT.exe
