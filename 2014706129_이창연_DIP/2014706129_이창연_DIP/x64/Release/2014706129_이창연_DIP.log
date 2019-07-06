@@ -1,0 +1,44 @@
+﻿  2014706129_이창연_DIP.cpp
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22,5): error C2144:  구문 오류: float'은(는) ';' 다음에 와야 합니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22,11): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(24,5): error C2144:  구문 오류: void'은(는) ';' 다음에 와야 합니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(24,10): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(24,10): error C2086:  'int DLL': 재정의
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22): message :  'DLL' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(25,5): error C2144:  구문 오류: void'은(는) ';' 다음에 와야 합니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(25,10): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(25,10): error C2086:  'int DLL': 재정의
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22): message :  'DLL' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(27,5): error C2144:  구문 오류: void'은(는) ';' 다음에 와야 합니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(27,10): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(27,10): error C2086:  'int DLL': 재정의
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22): message :  'DLL' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(28,5): error C2144:  구문 오류: void'은(는) ';' 다음에 와야 합니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(28,10): error C4430:  형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(28,10): error C2086:  'int DLL': 재정의
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\hw.h(22): message :  'DLL' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(11,7): error C2065:  'fp_fdct_out': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(11,22): error C2143:  구문 오류: ')'이(가) ';' 앞에 없습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(14,2): error C2065:  'fp_fdct_out': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(16,19): error C2059:  구문 오류: ')'
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(22,15): error C2065:  'DCT_BlockSize': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(32,53): error C2664:  'void FileRead(char *,BYTE **,int,int)': 인수 1을(를) 'const char [18]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(32,11): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(34,23): error C2065:  'DCT_BlockSize': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(43,24): error C2065:  'fp_fdct_out': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(46,22): error C2065:  'DCT_BlockSize': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(46,37): error C2065:  'DCT_BlockSize': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(47,59): error C2664:  'void FileWrite(char *,BYTE **,int,int)': 인수 1을(를) 'const char [24]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(47,12): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(56,9): error C2065:  'fp_fdct_out': 선언되지 않은 식별자입니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(69,64): error C2664:  'void FileWrite(char *,BYTE **,int,int)': 인수 1을(를) 'const char [28]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(69,13): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(75,66): error C2664:  'void FileWrite(char *,BYTE **,int,int)': 인수 1을(를) 'const char [30]'에서 'char *'(으)로 변환할 수 없습니다.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(75,13): message :  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(63,1): error C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(134,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+C:\Users\HanSeokhyeon\source\repos\2014706129_이창연_DIP\2014706129_이창연_DIP\2014706129_이창연_DIP.cpp(146,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  stdafx.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
